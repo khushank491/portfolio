@@ -1,0 +1,104 @@
+*{
+    padding: 0 px;
+    margin: 0px;
+}
+body{
+    background-color: #ebebea;
+}
+.container
+{
+    background-image: url(./design.png);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position:  4px 4px;
+    margin: -8px -8px -1px -8px;
+}
+.head2{
+    text-align: center;
+    color:rgb(53, 16, 87);
+    font-weight: 700;
+}
+.head1{
+    color:rgb(53, 16, 87);
+    font-weight: 800;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.my-img{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.head5
+{
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 700;
+}
+.get-touch
+{
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(53, 16, 87);;
+}
+.bold{
+    color: rgb(53, 16, 87);
+    font-weight: 700;
+}
+.contact-us
+{
+    border-radius: 5px;
+    background-color:rgb(53, 16, 87);
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: none;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.heading4{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: rgb(29, 13, 45);
+    height: 115px;
+}
+.footer-content
+{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0%;
+}
+/*<p>Hi, my name is Khushank and I am highly, ambitious , self-motivated
+        Web Developer based in Delhi,India.</p>
+      <br>
+      <p>I'm a Freshman pursuing Computer Science Engineering at BPIT, Delhi</p>
+      <br>
+      <p>I'm always ready to have new experience, meet new people and learn new things.</p>
+      <br>
+      <p>I have a passion for technology and a desire to  push the limits of what is possible.
+        I am excited to see where my career takes me.</p>
